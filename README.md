@@ -83,7 +83,7 @@ The NPSP Advisory Board is expected to provide _input and formal recommendations
 The selection process is intended to be open, transparent, and guided by objective criteria for membership.
 
 #### 4.3
-The Facilitator/Manager shall prepare an agenda for and preside over regular meetings of the NPSP Advisory Board. These meetings shall occur as frequently as the NPSP Advisory Board determines is in the project’s best interest, but no less than quarterly.
+The Facilitator/Manager shall prepare an agenda for and preside over regular meetings of the NPSP Advisory Board. These meetings shall occur as frequently as the NPSP Advisory Board determines is in the project’s best interest, but at least twice per year. The Facilitator/Manager shall also establish a private Power of Us Hub group where the Board will be invited and expected to regularly contribute.
 
 #### 4.4
 A member of the NPSP Advisory Board may be removed by a resolution of the NPSP Advisory Board supported by more than two thirds of its membership.
@@ -104,17 +104,17 @@ Two seats will be granted to the top technical contributors, as measured by non-
 
 #### 5.2 Partner seats
 
-Nomination is restricted to partners for whom all three of the following are true:
+Nomination is restricted to partners for whom the following are true:
 
-*	Have actively contributed non-trivial pull requests merged into the master in the past six months, have NPSP-compatible applications currently on the AppExchange with more than 20 downloads, or have registered more than 12 NPSP implementations in the past six months
-*	Have one or more employees who are Force.com certified developers, consultants, or technical architects
+*	Have actively implemented Nonprofit Starter Pack version 3 or greater in at least 12 nonprofit organization instances or have NPSP-compatible applications currently on the AppExchange with more than 20 downloads
+*	Have a Power of Us Hub profile that they will use for Board business that is associated with a business name and is not through a nonprofit organization
 *	Have committed to utilize the NPSP in organizations in a manner consistent with Core Criteria listed in Section 8 below
 
 #### 5.3
-Once nominations haves been closed, selection of partner seats will be made by a vote by eligible contributors. Eligible contributors are those who remain active as a contributor and have had at least one non-trivial pull request merged to master in the previous six months.
+Once nominations haves been closed, selection of partner seats will be made by a vote by the Nonprofit Starter Pack community.
 
 #### 5.4 Organization seats
-These seats are for organizations that are using the Nonprofit Starter Pack. To be nominated, an end-user organization must currently be using NPSP in production and have contributed a customer success story to the Foundation in the past 12 months.  Once nominations have been closed, selection will be made by a vote by eligible contributors. Eligible contributors are those who are currently active and have had at least one non-trivial pull request merged to master in the past six months.
+These seats are for employees of organizations that are using the Nonprofit Starter Pack. To submit a nomination, an end-user must currently be using NPSP version 3 or later in production.  Once nominations have been closed, selection will be made by a vote of the Nonprofit Starter Pack community.
 
 ### 6. Operation
 
