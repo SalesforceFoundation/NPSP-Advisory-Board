@@ -3,7 +3,7 @@ Nonprofit Starter Pack Advisory Board Charter
 
 ### 1. Background
 
-The Nonprofit Starter Pack open source project has continued to provide an alternative platform for nonprofit organizations on the Salesforce platform to build upon over the past 5 years. Given the large numbers of users, organizations and ecosystem partners with a stake in the future of the project, Salesforce.org leadership wants to provide a long-term commitment to a more open governance and contribution model by facilitating and supporting an advisory board.
+The Nonprofit Starter Pack open source project has continued to provide an alternative platform for nonprofit organizations on the Salesforce platform to build upon since 2008. Given the large numbers of users, organizations and ecosystem partners with a stake in the future of the project, Salesforce.org leadership wants to provide a long-term commitment to a more open governance and contribution model by facilitating and supporting an advisory board.
 
 #### 1.1 What do we want to accomplish?
 
@@ -68,15 +68,16 @@ The NPSP Advisory Board is expected to provide _input and formal recommendations
 
 #### 4.1 General
 
-*	The NPSP Advisory Board will have up to 12 members
-*	The NPSP Salesforce.org project lead: Kevin Bromer (or other as assigned by Salesforce.org)
+*	The NPSP Advisory Board will have up to 13 members
+*	The NPSP Salesforce.org Product Owner: Kevin Bromer (or other as assigned by Salesforce.org)
 *	2 seats for the top technical contributors, from Salesforce.org or otherwise
 * One facilitator/manager
 *	Up to 6 additional seats: 3 partner seats, 3 “user” seats
 *	One Salesforce.org non-technical seat
+*	One Salesforce.org NPSP Product Management seat
 *	One Open Source Software guidance seat
 *	No fee or sponsorship is required for membership
-*	The membership term will last 12 months. With the exception of the Project Lead and Salesforce.org technical contributors, all members can serve a maximum of two consecutive terms
+*	he membership term will last 12 months. With the exception of the Product Owner, top technical contributors, Facilitator and Product Manager, all members can serve a maximum of two consecutive terms.
 
 #### 4.2
 
