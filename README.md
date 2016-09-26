@@ -1,15 +1,15 @@
-Nonprofit Starter Pack Advisory Board Charter
+Nonprofit Success Pack Advisory Board Charter
 ----------------------------------------------
 
 ### 1. Background
 
-The Nonprofit Starter Pack open source project has continued to provide an alternative platform for nonprofit organizations on the Salesforce platform to build upon since 2008. Given the large numbers of users, organizations and ecosystem partners with a stake in the future of the project, Salesforce.org leadership wants to provide a long-term commitment to a more open governance and contribution model by facilitating and supporting an advisory board.
+The Nonprofit Success Pack open source project has continued to provide an alternative platform for nonprofit organizations on the Salesforce platform to build upon since 2008. Given the large numbers of users, organizations and ecosystem partners with a stake in the future of the project, Salesforce.org leadership wants to provide a long-term commitment to a more open governance and contribution model by facilitating and supporting an advisory board.
 
 #### 1.1 What do we want to accomplish?
 
 ##### 1.1.1 All voices at the table
 
-The NPSP Advisory Board has seats reserved for the various constituencies who are making long-term investments in the Nonprofit Starter Pack, this includes:
+The NPSP Advisory Board has seats reserved for the various constituencies who are making long-term investments in the Nonprofit Success Pack, this includes:
 
 * Individuals who are investing time and effort to contribute to the project
 * Organizations using the NPSP
@@ -43,7 +43,7 @@ The NPSP project was started in 2007 at the Salesforce Foundation (now known pub
 
 #### 2.1
 
-The primary purpose of the NPSP Advisory Board is to advise Salesforce.org and Nonprofit Starter Pack project core committers on matters related to supporting the long-term governance, structure, and roadmap of the Nonprofit Starter Pack. The following main areas are included in this charter:
+The primary purpose of the NPSP Advisory Board is to advise Salesforce.org and Nonprofit Success Pack project core committers on matters related to supporting the long-term governance, structure, and roadmap of the Nonprofit Success Pack. The following main areas are included in this charter:
 
 * Provide a forum for individuals, users, and invested partners to discuss the issues under the scope listed below.
 * Provide guidance and input to Salesforce.org, and where possible, present a consistent and consolidated opinion from the broader NPSP community.
@@ -107,20 +107,20 @@ Two seats will be granted to the top technical contributors, as measured by non-
 
 Nomination is restricted to partners for whom the following are true:
 
-*	Have actively implemented Nonprofit Starter Pack version 3 or greater in at least 12 nonprofit organization instances or have NPSP-compatible applications currently on the AppExchange with more than 20 downloads
+*	Have actively implemented Nonprofit Success Pack version 3 or greater in at least 12 nonprofit organization instances or have NPSP-compatible applications currently on the AppExchange with more than 20 downloads
 *	Have a Power of Us Hub profile that they will use for Board business that is associated with a business name and is not through a nonprofit organization
 *	Have committed to utilize the NPSP in organizations in a manner consistent with Core Criteria listed in Section 8 below
 
 #### 5.3
-Once nominations haves been closed, selection of partner seats will be made by a vote by the Nonprofit Starter Pack community.
+Once nominations haves been closed, selection of partner seats will be made by a vote by the Nonprofit Success Pack community.
 
 #### 5.4 Organization seats
-These seats are for employees of organizations that are using the Nonprofit Starter Pack. To submit a nomination, an end-user must currently be using NPSP version 3 or later in production.  Once nominations have been closed, selection will be made by a vote of the Nonprofit Starter Pack community.
+These seats are for employees of organizations that are using the Nonprofit Success Pack. To submit a nomination, an end-user must currently be using NPSP version 3 or later in production.  Once nominations have been closed, selection will be made by a vote of the Nonprofit Success Pack community.
 
 ### 6. Operation
 
 #### 6.1
-The Nonprofit Starter Pack Advisory Board is authorized to seek advice and counsel from other interested parties and invited experts as appropriate.
+The Nonprofit Success Pack Advisory Board is authorized to seek advice and counsel from other interested parties and invited experts as appropriate.
 
 #### 6.2
 Any outside party wishing to bring an issue before the NPSP Advisory Board may do so by emailing the NPSP Advisory Board at npsp_advisoryboard@salesforcefoundation.org.
