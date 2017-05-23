@@ -22,7 +22,7 @@ The charter and all documentation behind the NPSP Advisory Board, the selection 
 
 ##### 1.1.3  Encouraging Contribution
 
-There is no fee to join the board. Membership on the NPSP Advisory Board is open to partners and individuals who contribute to the overall success and health of the NPSP project. The top contributors (and maintainers) are automatically given a seat on the board. Organizations can only get on the board if they are both current top contributors and agree to implement successful NPSP-based solutions for the community at large.
+There is no fee to join the board. Membership on the NPSP Advisory Board is open to partners and individuals who contribute to the overall success and health of the NPSP project.
 
 ##### 1.1.4 Augment a Trusted Ecosystem
 
@@ -77,7 +77,7 @@ The NPSP Advisory Board is expected to provide _input and formal recommendations
 *	One Salesforce.org NPSP Product Management seat
 *	One Open Source Software guidance seat
 *	No fee or sponsorship is required for membership
-*	he membership term will last 12 months. With the exception of the Product Owner, top technical contributors, Facilitator and Product Manager, all members can serve a maximum of two consecutive terms.
+*	The membership term will last 12 months. The Product Owner and top technical contributors are automatically assigned seats on the Board. The Product Owner appoints the Facilitator, Product Manager and Open Source Guidance seats. All other members can serve a maximum of two consecutive terms.
 
 #### 4.2
 
@@ -112,10 +112,10 @@ Nomination is restricted to partners for whom the following are true:
 *	Have committed to utilize the NPSP in organizations in a manner consistent with Core Criteria listed in Section 8 below
 
 #### 5.3
-Once nominations haves been closed, selection of partner seats will be made by a vote by the Nonprofit Success Pack community.
+Once nominations have been closed, selection of partner seats will be made by a vote of the current Advisory Board Members.
 
 #### 5.4 Organization seats
-These seats are for employees of organizations that are using the Nonprofit Success Pack. To submit a nomination, an end-user must currently be using NPSP version 3 or later in production.  Once nominations have been closed, selection will be made by a vote of the Nonprofit Success Pack community.
+These seats are for employees of organizations that are using the Nonprofit Success Pack. To submit a nomination, an end-user must actively be using NPSP version 3 or later in production.  Once nominations have been closed, selection will be made by a vote of the current Advisory Board Members.
 
 ### 6. Operation
 
